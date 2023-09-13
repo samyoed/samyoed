@@ -1,6 +1,4 @@
-👋 Hi, I’m Sam!
-
-I'm a graduate CS student at The University of Virginia interested in VR and AR as well as HCI technologies
+Just doing code things for fun
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
